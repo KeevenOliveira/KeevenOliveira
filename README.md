@@ -1,6 +1,6 @@
 ### Hello there👋, I'm Keeven and I'm an Developer Full Stack.
 * 💬 Ask me about HTML, JavaScript, CSS, React, Node JS, or Bootstrap
-* 🌱 I’m currently learning Computer Science on University Catholic of Pernambuco
+* 🌱 I’m currently studying Computer Science on University Catholic of Pernambuco
 * ***
 - See my business card [here](https://business-card-git-main.progkeeven.vercel.app/)
 
