@@ -1,5 +1,4 @@
 ### Hello there👋, I'm Keeven. How are you? I hope well!
-* 💬 Ask me about HTML, JavaScript, CSS, React, Node JS, or Bootstrap
 * 🌱 I’m currently studying Computer Science on University Catholic of Pernambuco
 * ***
 - See my business card [here](https://business-card-git-main.progkeeven.vercel.app/)
