@@ -1,4 +1,4 @@
-### Hello there👋, I'm Keeven and I'm an Developer Full Stack.
+### Hello there👋, I'm Keeven. How are you? I hope well!
 * 💬 Ask me about HTML, JavaScript, CSS, React, Node JS, or Bootstrap
 * 🌱 I’m currently studying Computer Science on University Catholic of Pernambuco
 * ***
