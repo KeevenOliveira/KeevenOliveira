@@ -2,7 +2,7 @@
 ### Hello there👋, I'm Keeven. How are you? I hope you're well!
 * 🚀 I’m currently studying Computer Science at University Catholic of Pernambuco;
 * ❤ I love my profession;
-* 🎶 love Music;
+* 🎶 love music;
 * ✨ like to talk and I like to help people.
 
 See my business card [here❣](https://business-card-git-main.progkeeven.vercel.app/)
