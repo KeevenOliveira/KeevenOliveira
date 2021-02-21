@@ -1,6 +1,6 @@
 # English 🌐
 ### Hello there👋, I'm Keeven. How are you? I hope you're well!
-* 🚀 I’m currently studying Computer Science on University Catholic of Pernambuco;
+* 🚀 I’m currently studying Computer Science at University Catholic of Pernambuco;
 * ❤ I love my profession;
 * 🎶 love Music;
 * ✨ like to talk and I like to help people.
