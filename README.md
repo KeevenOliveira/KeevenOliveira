@@ -10,9 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeevenOliveira&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### My activity🚀
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KeevenOliveira&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 See my business card [here❣](https://business-card-git-main.progkeeven.vercel.app/)
 
 ***
