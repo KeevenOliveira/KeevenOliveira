@@ -1,0 +1,55 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <rect width="1200" height="260" fill="url(#grid)" opacity="0.28"/>
+
+  <!-- Floating stack keywords -->
+  <g fill="#94a3b8" font-size="14" font-family="monospace" opacity="0.75">
+    <text x="90"  y="60">Next.js</text>
+    <text x="320" y="95">React</text>
+    <text x="980" y="80">Node.js</text>
+    <text x="180" y="210">React Native</text>
+    <text x="820" y="185">Cloud</text>
+  </g>
+
+  <!-- Name -->
+  <text x="600" y="120"
+        text-anchor="middle"
+        fill="#e5e7eb"
+        font-size="42"
+        font-family="Inter, system-ui, sans-serif"
+        font-weight="600">
+    Keeven Oliveira
+  </text>
+
+  <!-- Role -->
+  <text x="600" y="160"
+        text-anchor="middle"
+        fill="#cbd5f5"
+        font-size="20"
+        font-family="Inter, system-ui, sans-serif"
+        font-weight="500">
+    Senior Full-Stack Engineer
+  </text>
+
+  <!-- Subtle background motion -->
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    from="0 0"
+    to="-40 -40"
+    dur="32s"
+    repeatCount="indefinite"
+  />
+</svg>
