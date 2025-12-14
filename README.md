@@ -111,15 +111,19 @@ Beyond code, I care deeply about **product and architecture decisions**, includi
 
 ## ⭐ Featured Projects
 
-🚀 **DarwinX**  
+🚀 <a href="https://www.darwinx.com.br/">**DarwinX**</a><br/>
 Equipment and operations management platform  
-**Stack:** React, React Native, Node.js, Prisma, PostgreSQL, AWS
+**Stack:** React, React Native, Node.js, Next.js, Prisma, MongoDB, PostgreSQL, AWS
 
-🎓 **Sebrae Play**  
+🎓 <a href="https://www.sebraeplay.com.br/">**Sebrae Play**</a><br/>
 Educational platform with live events and courses  
-**Stack:** Next.js, Node.js, GraphQL, MongoDB, AWS
+**Stack:** React.js, Next.js, Node.js, PostgreSQL, AWS
 
-🧠 **Pastey (macOS)**  
+🗣️ <a href="https://www.lucaidiomas.com/">**Luca Idiomas**</a><br/>
+Online language learning platform with private 1:1 classes  
+**Stack:** Next.js, TypeScript, Node.js, MongoDB, AWS
+
+🧠 <a href="https://github.com/KeevenOliveira/Pastey">**Pastey (macOS)**</a><br/>
 Native macOS clipboard manager  
 **Stack:** Swift, SwiftUI
 
