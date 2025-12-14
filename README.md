@@ -4,65 +4,59 @@
 
 ## 👋 Hi, I'm Keeven Oliveira
 
-**Senior Full-Stack Engineer** focused on building **scalable, high-performance products** using **TypeScript, React/Next.js, Node.js and Cloud architectures**.
+**Senior Full-Stack Engineer** focused on building **scalable, high-performance products** using  
+**TypeScript, React / Next.js, Node.js and Cloud architectures**.
 
-I enjoy solving complex problems, improving developer experience, and delivering software with **real business impact**.
+I enjoy solving complex problems, improving developer experience, and building software that delivers **real business impact**.
 
----
-
-## 🎮 Mini Game — Choose Your Path
-
-You just opened my GitHub profile.  
-What do you want to explore first?
-
-- 👉 [🎨 Frontend Engineer Path](#-frontend-engineer)
-- 👉 [⚙️ Backend Engineer Path](#️-backend-engineer)
-- 👉 [🚀 Product & Architecture Path](#-product--architecture)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KeevenOliveira/ProgKeeven/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-### 🎨 Frontend Engineer
+## 🧭 Quick Navigation
 
-You chose **Frontend**.
+- 🎨 [Frontend Focus](#-frontend-focus)
+- ⚙️ [Backend Focus](#️-backend-focus)
+- 🚀 [Product & Architecture](#-product--architecture)
+- 🧩 [Tech Stack](#-tech-stack)
+- ⭐ [Featured Projects](#-featured-projects)
 
-Here you’ll find projects built with **React, Next.js, TypeScript**, focused on:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeevenOliveira&layout=compact&theme=dark"/>
+</p>
 
-- Performance & SEO
-- Component architecture
-- Design systems
-- Clean UI/UX
+### 🎨 Frontend Focus
 
-⬅️ [Go back](#-mini-game--choose-your-path)
+I work mainly with **React, Next.js and TypeScript**, focusing on:
+
+- Performance, SEO and accessibility
+- Scalable component architecture
+- Design systems and reusable UI
+- Clean, maintainable codebases
 
 ---
 
-### ⚙️ Backend Engineer
+### ⚙️ Backend Focus
 
-You chose **Backend**.
-
-You’ll see experience with:
+On the backend side, I have solid experience with:
 
 - Node.js (Express / NestJS)
-- Prisma & SQL optimization
-- REST & GraphQL APIs
-- Scalable architectures
-
-⬅️ [Go back](#-mini-game--choose-your-path)
+- REST and GraphQL APIs
+- Prisma and SQL performance optimization
+- Scalable and well-structured architectures
 
 ---
 
 ### 🚀 Product & Architecture
 
-You chose **Product & Architecture**.
+Beyond code, I care deeply about **product and architecture decisions**, including:
 
-This path highlights:
-
-- End-to-end ownership
-- Cloud & DevOps decisions
-- Performance & scalability
-- Business-driven engineering
-
-⬅️ [Go back](#-mini-game--choose-your-path)
+- End-to-end ownership of features
+- Cloud and infrastructure decisions
+- Performance, scalability and reliability
+- Aligning engineering decisions with business goals
 
 ---
 
@@ -86,7 +80,7 @@ This path highlights:
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="36"/>
@@ -108,62 +102,45 @@ This path highlights:
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36"/>
 </p>
 
 ---
 
-## 🐍 GitHub Snake Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KeevenOliveira/ProgKeeven/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## ⭐ Featured Projects
 
-🚀 **DarwinX**
+🚀 **DarwinX**  
+Equipment and operations management platform  
+**Stack:** React, React Native, Node.js, Prisma, PostgreSQL, AWS
 
-> Equipment & operations management platform  
-> **Stack:** React, React Native, Node.js, Prisma, PostgreSQL, AWS
+🎓 **Sebrae Play**  
+Educational platform with live events and courses  
+**Stack:** Next.js, Node.js, GraphQL, MongoDB, AWS
 
-🎓 **Sebrae Play**
-
-> Educational platform with live events and courses  
-> **Stack:** Next.js, Node.js, GraphQL, MongoDB, AWS
-
-🧠 **ClipboardBar (macOS)**
-
-> Native macOS clipboard manager  
-> **Stack:** Swift, SwiftUI
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeevenOliveira&layout=compact&theme=dark"/>
-</p>
+🧠 **Pastey (macOS)**  
+Native macOS clipboard manager  
+**Stack:** Swift, SwiftUI
 
 ---
 
 ## 🔗 Links
 
 - 🌐 **Portfolio / Business Card**  
-  👉 https://business-card-git-main.progkeeven.vercel.app/
+  https://business-card-git-main.progkeeven.vercel.app/
 
 - 💼 **LinkedIn**  
-  👉 https://www.linkedin.com/in/keeven-oliveira/
+  https://www.linkedin.com/in/keeven-oliveira/
 
 ---
 
 ## 🇧🇷 Em Português
 
-Sou desenvolvedor **Full-Stack Sênior**, com foco em **TypeScript, React/Next.js, Node.js e Cloud**.  
-Atuo na construção de produtos escaláveis, APIs robustas e aplicações com impacto real no negócio.
+Sou **desenvolvedor Full-Stack Sênior**, com foco em **TypeScript, React / Next.js, Node.js e Cloud**.
+
+Atuo no desenvolvimento de produtos escaláveis, APIs bem estruturadas e aplicações com impacto real no negócio.  
+Tenho uma visão forte de produto e arquitetura, sempre buscando alinhar decisões técnicas aos objetivos da empresa.
 
 <p align="center">
   <img src="./assets/footer-background.svg" />
