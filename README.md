@@ -135,7 +135,7 @@ Native macOS clipboard manager
   https://www.keevenoliveira.com.br/card
 
 - 💼 **LinkedIn**  
-  https://www.linkedin.com/in/keeven-oliveira
+  https://www.linkedin.com/in/keevenoliveira
 
 ---
 
