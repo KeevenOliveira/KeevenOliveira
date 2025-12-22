@@ -132,7 +132,7 @@ Native macOS clipboard manager
 ## 🔗 Links
 
 - 🌐 **Portfolio / Business Card**  
-  https://keevenoliveira.com.br/card
+  https://www.keevenoliveira.com.br/card
 
 - 💼 **LinkedIn**  
   https://www.linkedin.com/in/keeven-oliveira
