@@ -132,10 +132,10 @@ Native macOS clipboard manager
 ## 🔗 Links
 
 - 🌐 **Portfolio / Business Card**  
-  https://business-card-git-main.progkeeven.vercel.app/
+  https://keevenoliveira.com.br/card
 
 - 💼 **LinkedIn**  
-  https://www.linkedin.com/in/keeven-oliveira/
+  https://www.linkedin.com/in/keeven-oliveira
 
 ---
 
